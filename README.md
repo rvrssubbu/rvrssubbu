@@ -1,4 +1,4 @@
-[![MasterHead](https://gifimage.net/wp-content/uploads/2017/09/binary-code-gif-4.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Subrahmanyam Rayaprolu</h1>
 <h3 align="center">A passionate backend developer from India</h3>
