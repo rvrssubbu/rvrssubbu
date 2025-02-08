@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/rayaprolu_subbu" target="blank"><img src="https://img.shields.io/twitter/follow/rayaprolu_subbu?logo=twitter&style=for-the-badge" alt="rayaprolu_subbu" /></a> </p>
 
-- 🔭 I’m currently working on **Spring Boot projects**
+- 🔭 I’m currently working on **Spring Boot & MicroServices**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **System Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
